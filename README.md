@@ -1,0 +1,2 @@
+# Second-Year-Java-Exercises
+Some of my Java work from first and second semester of my second year in college
