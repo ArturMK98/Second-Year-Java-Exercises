@@ -3,17 +3,20 @@ Some of my Java work from first and second semester of my second year in college
 
 Below is a list of all the labs and exercises in this repository along with a short description of each exercise:
 
-# Luhn Algorithm
+## Luhn Algorithm
 - A Java program that 
 
-# CompoundInterest
+## Travelling Salesman Problem
 - A Java program that 
 
-# DiceAndBitcoin
+## CompoundInterest
 - A Java program that 
 
-# DiceRoll
+## DiceAndBitcoin
 - A Java program that 
 
-# TheBirthdayProblem
+## DiceRoll
+- A Java program that 
+
+## TheBirthdayProblem
 - A Java program that 
