@@ -9,7 +9,7 @@
  *      - 3: The SHA-256 of the hex with 80 in front is generated
  *      - 4: The first 8 digits of the SHA-256 are taken and added
  *           to the end of the hex number with 80 in the beginning
- *      - 5: A base 58 encoding of the hex numer with 80 in the beginning
+ *      - 5: A base 58 encoding of the hex number with 80 in the beginning
  *           and the first 8 digits of the SHA-256 hash in the end is generated
  *      - 6: All the steps from the random 64 digit hex to the base 58 encoding
  *           are printed out to the screen
