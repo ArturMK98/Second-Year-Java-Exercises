@@ -13,10 +13,10 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - A Java program that calculates the amount of interest added to user's balance given interest rate, starting balance and duration.
 
 ## [DiceAndBitcoin](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/DiceAndBitcoin.java)
-- A Java program that 
+- A Java program that calculates the amount of times 6 comes up on the dice in the amount of rolls specified, the % of times 6 has showed up, and how many BitCoins have been mined (taking that 1 BitCoin is mined every 10 minutes or 200 rolls).
 
 ## [DiceRoll](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/DiceRoll.java)
-- A Java program that calculates the amount of times 6 comes up on the dice in the amount of rolls specified, the % of times 6 has showed up, and how many BitCoins have been mined (taking that 1 BitCoin is mined every 10 minutes or 200 rolls).
+- A Java program that simulates a dice roll specified number of times and prints out the number of times each number appeared as well as the % of time that number appeared.
 
 ## [HuffmanP1](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/HuffmanP1.java)
 - A Java program that prints out a binary representation of a String entered by the user as well as counts the amount of times each character in the String appeared.
