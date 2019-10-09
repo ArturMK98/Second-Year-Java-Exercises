@@ -18,5 +18,14 @@ Below is a list of all the labs and exercises in this repository along with a sh
 ## DiceRoll
 - A Java program that 
 
+## HuffmanP1
+- A Java program that
+
+## RandomHex
+- A Java program that
+
+## RandomKey
+- A Java program that
+
 ## TheBirthdayProblem
 - A Java program that 
