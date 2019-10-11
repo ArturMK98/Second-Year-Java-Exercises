@@ -18,6 +18,9 @@ Below is a list of all the labs and exercises in this repository along with a sh
 ## [DiceRoll](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/DiceRoll.java)
 - A Java program that simulates a dice roll specified number of times and prints out the number of times each number appeared as well as the % of time that number appeared.
 
+## [HuffmanEncoding](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/HuffmanEncoding.java)
+- A Java program that uses the HuffmanEncoding algorithm to compress a word/sentence entered by the user and prints the result to the screen.
+
 ## [HuffmanP1](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/HuffmanP1.java)
 - A Java program that prints out a binary representation of a String entered by the user as well as counts the amount of times each character in the String appeared.
 
