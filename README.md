@@ -31,7 +31,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - A Java program that generates a random hex string. The length of the hex string is determined by user input.
 
 ## [RandomKey](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/RandomKey.java)
-- A Java program that generates a random base 58 encoding of a 64 digit hex number and prints out the answer at each step. Also uses SHA-258 encoding.
+- A Java program that generates a random base 58 encoding of a 64 digit hex number and prints out the answer at each step. Also uses SHA-256 encoding.
 
 ## [TheBirthdayProblem](https://github.com/ArturMK98/Second-Year-Java-Exercises/blob/master/TheBirthdayProblem.java)
 - A Java program that calculates the probability of two people in a class sharing the same Birthday given the number of people in a class through user input.
