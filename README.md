@@ -6,6 +6,9 @@ Below is a list of all the labs and exercises in this repository along with a sh
 ## [Luhn Algorithm](https://github.com/ArturMK98/Second-Year-Java-Exercises/tree/master/Luhn%20Algorithm)
 - A Java program that uses the Luhn algorithm to determine if a credit card number entered by the user is valid or invalid.
 
+## [QuickSort](https://github.com/ArturMK98/Second-Year-Java-Exercises/tree/master/QuickSort)
+- A Java program that uses the Quick Sort algorithm to sort an array created by the user and prints out the original and sorted arrays to the screen.
+
 ## [Travelling Salesman Problem](https://github.com/ArturMK98/Second-Year-Java-Exercises/tree/master/Travelling%20Salesman%20Problem)
 - My attempt at the travelling salesman problem. The task was to find the shortest possible time a drone could complete food deliveries around Maynooth and surrounding areas given a list of coordintes.
 
