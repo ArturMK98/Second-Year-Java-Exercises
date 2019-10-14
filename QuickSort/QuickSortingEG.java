@@ -10,7 +10,7 @@
  *      - 5: The sorted array is printed out to the screen
  */
 
-import java .util.*;
+import java.util.*;
 
 public class QuickSortingEG {
 
